@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albtky&" alt="albtky" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albtky&label=Profile%20views&color=0e75b6&style=flat" alt="albtky" /> </p>
-
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
