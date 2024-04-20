@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alperen Tokay</h1>
+
+<img src="https://camo.githubusercontent.com/95d9dcd58a083c6bb12c7a03c6299cbe90501241fc64b3bd3f9beeadfd6e4f4a/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f73697a653d3430266475726174696f6e3d3330303026636f6c6f723d3330444337322663656e7465723d74727565267643656e7465723d747275652677696474683d383030266865696768743d313030266c696e65733d49276d2b616e2b416e64726f69642b446576656c6f7065723b49276d2b612b50726f626c656d2b536f6c766572" alt="Headline" data-canonical-src="https://readme-typing-svg.herokuapp.com?size=40&amp;duration=3000&amp;color=30DC72&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=100&amp;lines=I'm+an+Android+Developer;I'm+a+Problem+Solver" style="max-width: 100%;">
 <h3 align="center">a passionate android developer candidate from Turkey</h3>
 
 
