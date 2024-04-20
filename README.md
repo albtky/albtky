@@ -1,8 +1,7 @@
  <h1 align="center">Hi 👋, I'm Alperen Tokay</h1>
 <h3 align="center">a passionate android developer candidate from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=albtky&label=Profile%20views&color=0e75b6&style=flat" alt="albtky" /> </p>
-
+ 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albtky" alt="albtky" /></a> </p>
 
 - 🔭 I’m currently working on [Kotlin Bootcamp](https://github.com/albtky/Kotlin_Bootcamp)
