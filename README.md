@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alperen Tokay</h1>
 <h3 align="center">a passionate android developer candidate from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=albtky&label=Profile%20views&color=0e75b6&style=flat" alt="albtky" /> </p>
 
 - 🔭 I’m currently working on [Kotlin Bootcamp](https://github.com/albtky/Kotlin_Bootcamp)
 
@@ -25,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albtky&show_icons=true&locale=en" alt="albtky" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albtky&" alt="albtky" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=albtky&label=Profile%20views&color=0e75b6&style=flat" alt="albtky" /> </p>
+
